@@ -35,7 +35,7 @@ h3{
     color: white;
 } */
 
-*{
+/* *{
     font-family: 'Courier New', Courier, monospace;
 }
 h1{
@@ -49,9 +49,43 @@ h3{
 }
 #signup{
     background-color: #b92b27;
-    color: white;
+    color:white;
 }
 .upvote{
-background-color: green;
-color: white;
+    background-color: green;
+    color: white;
+}
+.post a{
+    color: purple;
+    background-color: yellow;
+}
+nav ul li a{
+    color: hotpink;
+} */
+ *{
+    font-family: 'Courier New', Courier, monospace;
+ }
+ h1{
+    color: #b92b27;
+ }
+ h3{
+    color: #b92b27;
+ }
+ #login{
+    background-color: white;
+ }
+ #signup{
+    background-color: #b92b27;
+    color: white;
+ }
+ .upvote{
+    background-color: green;
+    color: white;
+ }
+ .post a{
+    color: purple;
+    background-color: yellow;
+ }
+nav ul li a{
+    color: hotpink;
 }

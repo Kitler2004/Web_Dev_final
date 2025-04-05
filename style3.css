@@ -1,0 +1,18 @@
+div {
+     /* height: 200px;
+    width: 300px;
+    background-color: pink;
+   border: 5px solid black;
+   border-color: yellow;
+   border-top: 5px dashed blue;
+   border-left: 5px dashed red;
+   border-bottom: 5px dashed green;
+   border-right: 5px dashed yellow; */
+   height: 200px;
+   width: 500px;
+   background-color: pink;
+   border: 5px solid black;
+}
+h1{
+    border: 2px dashed green;
+}

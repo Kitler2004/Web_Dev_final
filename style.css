@@ -152,51 +152,7 @@ input[type]{
     background-color: ghostwhite;
 } */
 
-/* *{
-    font-family: 'Courier New', Courier, monospace;
-}
-h1,h3{
-    color: #b22927;
-}
-#login{
-    background-color: white;
-    color: black;
-}
-#signup{
-    background-color: #b22927;
-    color: aliceblue;
-}
-input[type]{
-    background-color: ghostwhite;
-}
-input[type = "text"]{
-    color: red;
-}
-input[type= "password"]{
-    color: green;
-}
-nav a{
-    color: hotpink;
-}
-.post a{
-    color: purple;
-    background-color: yellow;
-}
-.upvote{
-    background-color: green;
-    color: aliceblue;
-}
-.upvote + button{
-    color: aliceblue;
-    background-color: cornflowerblue;
-}
-.post + h3{
-    text-decoration: underline;
-}
-div[id="myid"]{
-    color: green;
-} */
- *{
+ /* *{
     font-family: 'Courier New', Courier, monospace;
  }
  h1,h3{
@@ -213,28 +169,45 @@ div[id="myid"]{
     background-color: ghostwhite;
  }
  input[type="text"]{
-    color: red;
+    color: green;
  }
- input[type="password"]{
-    color: green;;
+ input[type = "password"]{
+    color: red;
  }
  nav a{
     color: hotpink;
  }
-.post a{
+ .post a{
     color: purple;
     background-color: yellow;
-}
-.upvote{
+ }
+ .post + h3{
+    text-decoration: underline;
+ }
+ .upvote{
     background-color: green;
     color: aliceblue;
-}
-.upvote + button{
+ }
+ .upvote + button{
     background-color: cornflowerblue;
-}
-.post + h3{
-    text-decoration: underline;
-}
-div[id="myid"] p {
+ }
+ div[type="myid"]{
     color: green;
+ }
+ 
+
+h1::first-letter{
+    color: black;
 }
+p::selection{
+    background-color: ;
+}
+p::first-line{
+    color: purple;
+} */
+ *{
+    font-family: 'Courier New', Courier, monospace;
+ }
+ h1,h3{
+    color: #b22927;
+ }
